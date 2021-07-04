@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project  👀
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/64688647/124373998-10900f80-dcb5-11eb-996e-eee27004308e.gif)
 
 There are many great games built using javascripts, however, I find the Python's Turle module very interesting. So I decided to create a snake game from scratch with not great UI but still I hope you people will love it.-- I think this is it.
 
